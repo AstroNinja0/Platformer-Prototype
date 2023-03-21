@@ -1,0 +1,4 @@
+"player_inputs" {
+  "up":"pygame.K_UP",
+
+}

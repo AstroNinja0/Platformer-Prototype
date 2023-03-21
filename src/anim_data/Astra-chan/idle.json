@@ -1,0 +1,9 @@
+{
+  "attack": "False",
+  "loop": "True",
+  "data":{
+    "idle_1": 3,
+    "idle_2": 2,
+    "idle_3": 3
+  }
+}

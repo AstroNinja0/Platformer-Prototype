@@ -1,0 +1,36 @@
+{
+	"world_info": {
+    "world": "test",
+    "level": 1},
+
+  "tile_layouts": {
+  	"tiles": {
+      	"fg_tiles": {
+					"terrain": "src/level_data/layouts/test/t_terrain_tiles.csv",
+					"ramps": "src/level_data/layouts/test/t_terrain_ramps.csv",
+					"semisolids": "src/level_data/layouts/test/t_terrain_semisolids.csv",
+					"ladders": "src/level_data/layouts/test/t_terrain_ladders.csv"
+				},
+
+  		  "bg_tiles_1": "None",
+  		  "bg_tiles_2": "None"},
+
+      "entities": {
+      	"Astra-chan": "None",
+      	"enemies": "None"},
+
+      "collectables": {
+        "Tokens": "None"}
+  },
+  "tile_images": {
+    "tiles": {
+        "fg_tiles": {
+						"terrain": "src/level_data/image/test/terrain_tiles.png",
+						"ramps": "src/level_data/image/test/ramp_test.png",
+						"semisolids": "src/level_data/image/test/semisolid_test.png",
+						"ladders": "src/level_data/image/test/ladder_test.png"
+					},
+        "bg_tiles_1": "None",
+  		  "bg_tiles_2": "None"}
+  }
+}

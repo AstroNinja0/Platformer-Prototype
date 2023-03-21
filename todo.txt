@@ -1,0 +1,20 @@
+TODO
+
+Add Wall Sliding & Wall Jumping* DONE
+Add Player Projectile Attack* DONE but needs some more work
+Make it so Projectiles delete themselves when going off-screen* DONE
+Fix the bug where going up a ramp with a normal tile next to it prioritizes the tile
+Modify the ramp collisions, they work, but they're very buggy
+Add semi-solid & ladder terrain types
+Add a Close Range Attack for the Player
+Add a working UI for gameplay
+Add a UI for the pause menu
+
+Adjust Player Movement a bit more
+Make a Delta-time wrapper that makes any function that moves or deals with calculations add deltatime
+
+
+
+* Apply a working camera (scroll) to level
+* Make the level class more dynamic
+* Make the game good
